@@ -1,1 +1,3 @@
-# Console-Stock
+# Console Stock
+
+![plot](./images/console-stock.png)
