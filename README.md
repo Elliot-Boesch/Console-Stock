@@ -1,6 +1,6 @@
 # Console Stock ![plot](./images/main-logo.png)
 
-![plot](./images/console-stock.png)
+![plot](./images/dashboard.svg)
 
 ### Project Overview
 - Web-based aggregator of new gaming console listings
