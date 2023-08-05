@@ -1,4 +1,4 @@
-# Console Stock
+# Console Stock ![plot](./images/main-logo.png)
 
 ![plot](./images/console-stock.png)
 
