@@ -20,3 +20,8 @@
   - Xbox Series X
   - PlayStation 5
   - Nintendo Switch
+
+### Tech Stack
+![plot](./images/logos/vue-logo.svg)
+![plot](./images/logos/js-logo.svg)
+![plot](./images/logos/mysql-logo.svg)
