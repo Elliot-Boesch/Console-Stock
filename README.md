@@ -1,6 +1,6 @@
-# Console Stock ![plot](./images/main-logo.png)
+# Console Stock ![Logo](./images/main-logo.png)
 
-![plot](./images/dashboard.svg)
+![Dashboard](./images/dashboard.svg)
 
 ### Project Overview
 - Web-based aggregator of new gaming console listings
@@ -22,6 +22,6 @@
   - Nintendo Switch
 
 ### Tech Stack
-![plot](./images/logos/vue-logo.svg)
-![plot](./images/logos/js-logo.svg)
-![plot](./images/logos/mysql-logo.svg)
+![Vue Logo](./images/logos/vue-logo.svg)
+![JS Logo](./images/logos/js-logo.svg)
+![MySQL Logo](./images/logos/mysql-logo.svg)
